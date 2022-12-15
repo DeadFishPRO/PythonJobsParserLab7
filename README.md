@@ -9,3 +9,8 @@
 Теперь в терменале перед строкой с путем будет указано "(env)". После этого необходимо запустить сам сервер:
     
     python main.py
+
+![image](https://user-images.githubusercontent.com/73183531/207861714-4cb861f3-4183-4f1c-8529-ea41cc0ea44a.png)
+![image](https://user-images.githubusercontent.com/73183531/207861865-3aec348f-8369-4bb5-a3e3-89f8d39dca6c.png)
+![image](https://user-images.githubusercontent.com/73183531/207861993-acc29b72-d63a-4420-a9ce-78a135378558.png)
+![image](https://user-images.githubusercontent.com/73183531/207862438-30220507-668a-4362-9eb4-abdb33342bfe.png)
